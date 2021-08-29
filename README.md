@@ -30,25 +30,25 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/StevenPss/404-not-found-devChallenges">
+  <a href="https://github.com/StevenPss/my-team-page-devChallenges">
     <img src="images/devchallenges.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">404 Not Found</h3>
+  <h3 align="center">My Team Page</h3>
 
   <p align="center">
-    :no_entry: A 404 Page Not Found design :art: challenge by devChallenges.io :rocket:. Developed 👨‍💻 with HTML/CSS/JS :green_book:
+    ⚽ A My Team Page design 🎨 challenge by devChallenges.io 🚀. Developed 👨‍💻 with HTML/CSS :green_book:
     <br />
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY"><strong>Check out the Challenge »</strong></a>
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U"><strong>Check out the Challenge »</strong></a>
     <br />
     <br />
-    <a href="https://stevenpss-404-not-found-devchallenges.netlify.app/">Demo</a>
+    <a href="https://stevenpss-my-team-page-devchallenges.netlify.app/">Demo</a>
     .
-    <a href="https://stevenpss-404-not-found-devchallenges.netlify.app/">Solution</a>
+    <a href="https://stevenpss-my-team-page-devchallenges.netlify.app/">Solution</a>
     ·
-    <a href="https://github.com/StevenPss/404-not-found-devChallenges/issues">Report Bug</a>
+    <a href="https://github.com/StevenPss/my-team-page-devChallenges/issues">Report Bug</a>
     ·
-    <a href="https://github.com/StevenPss/404-not-found-devChallenges/issues">Request Feature</a>
+    <a href="https://github.com/StevenPss/my-team-page-devChallenges/issues">Request Feature</a>
   </p>  
 </p>
 
@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![404 Error Page Screen Shot][product-screenshot]](https://stevenpss-404-not-found-devchallenges.netlify.app/)
+[![My Team Page Screen Shot][product-screenshot]](https://stevenpss-my-team-page-devchallenges.netlify.app/)
 
 Learning and Practicing Responsive Web Development by building 8 Websites with given designs from [devChallenges.io](https://devchallenges.io/)
 
@@ -95,13 +95,13 @@ Learning and Practicing Responsive Web Development by building 8 Websites with g
   <summary>Responsive Web Developer</summary>
   <ol>
     <li>
-      <a href="https://github.com/StevenPss/404-not-found-devChallenges" target="_blank">
+      <a href="https://github.com/StevenPss/my-team-page-devChallenges" target="_blank">
         404 Not Found ✅
       </a>
     </li>
     <li>
-      <a href="#">
-        My Team Page 
+      <a href="https://github.com/StevenPss/my-team-page-devChallenges" target="_blank">
+        My Team Page ✅
       </a>
     </li>
     <li>
@@ -236,7 +236,6 @@ Learning and Practicing Responsive Web Development by building 8 Websites with g
 
 * [HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 * [CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
-* [JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 
 
@@ -258,11 +257,11 @@ To get a local copy just follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/StevenPss/404-not-found-devChallenges.git
+   git clone https://github.com/StevenPss/my-team-page-devChallenges.git
    ```
 2. Change directory
    ```sh
-   cd 404-not-found-devChallenges
+   cd my-team-page-devChallenges
    ```
 3. Done! 
    ```JS
@@ -274,16 +273,16 @@ To get a local copy just follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* 404 Not Found page is used `to turn the potential negative user experience of encountering an error into a positive one` for the visitors of your site.
+* A `meet the team page` helps potential `customers` and `clients` get to know the people they might be working with. It highlights the people working for your company and can help put a face to the name.
 
-_For more information, please refer to the [HTTP 404](https://en.wikipedia.org/wiki/HTTP_404) error_
+_For more information, please refer to the [15 Kickass Meet the Team Pages You Need to Check Out](https://www.bluleadz.com/blog/10-kickass-meet-the-team-page-examples)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/StevenPss/404-not-found-devChallenges/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/StevenPss/my-team-page-devChallenges/issues) for a list of proposed features (and known issues).
 
 
 
@@ -304,7 +303,7 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 
-Distributed under the `MIT License`. See [LICENSE](https://github.com/StevenPss/404-not-found-devChallenges/blob/main/LICENSE) for more information.
+Distributed under the `MIT License`. See [LICENSE](https://github.com/StevenPss/my-team-page-devChallenges/blob/main/LICENSE) for more information.
 
 
 <!-- CONTACT -->
@@ -314,7 +313,7 @@ LinkedIn - [@StevenSelolo][linkedin-url]
 Twitter - [@StevenSelolo][twitter-url]
 GitHub - [@StevenPss][github-url]
 
-Project Link: [https://github.com/StevenPss/404-not-found-devChallenges](https://github.com/StevenPss/404-not-found-devChallenges)
+Project Link: [https://github.com/StevenPss/my-team-page-devChallenges](https://github.com/StevenPss/my-team-page-devChallenges)
 
 
 
@@ -323,11 +322,15 @@ Project Link: [https://github.com/StevenPss/404-not-found-devChallenges](https:/
 * [devChallenges.io](https://devchallenges.io/)
 * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
 * [:root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
-* [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-* [History back() Method](https://www.w3schools.com/jsref/met_his_back.asp)
 * [CSS Naming Conventions that Will Save You Hours of Debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
 * [BEM Grandchildren: How To Handle Deeply Nested Elements](https://scalablecss.com/bem-nesting-grandchild-elements/#1391467)
 * [How To Create Responsive Images](https://www.w3schools.com/howto/howto_css_image_responsive.asp)
+* [Responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/)
+
+* [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/)
+* [CSS :nth-child() Selector](https://www.w3schools.com/cssref/sel_nth-child.asp)
+* [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+* [Responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/)
 * [Responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/)
 
 
@@ -336,16 +339,16 @@ Project Link: [https://github.com/StevenPss/404-not-found-devChallenges](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
-[contributors-url]: https://github.com/StevenPss/404-not-found-devChallenges/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
-[forks-url]: https://github.com/StevenPss/404-not-found-devChallenges/network/members
-[stars-shield]: https://img.shields.io/github/stars/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
-[stars-url]: https://github.com/StevenPss/404-not-found-devChallenges/stargazers
-[issues-shield]: https://img.shields.io/github/issues/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
-[issues-url]: https://github.com/StevenPss/404-not-found-devChallenges/issues
-[license-shield]: https://img.shields.io/github/license/StevenPss/404-not-found-devChallenges.svg?style=for-the-badge
-[license-url]: https://github.com/StevenPss/404-not-found-devChallenges/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/StevenPss/my-team-page-devChallenges.svg?style=for-the-badge
+[contributors-url]: https://github.com/StevenPss/my-team-page-devChallenges/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StevenPss/my-team-page-devChallenges.svg?style=for-the-badge
+[forks-url]: https://github.com/StevenPss/my-team-page-devChallenges/network/members
+[stars-shield]: https://img.shields.io/github/stars/StevenPss/my-team-page-devChallenges.svg?style=for-the-badge
+[stars-url]: https://github.com/StevenPss/my-team-page-devChallenges/stargazers
+[issues-shield]: https://img.shields.io/github/issues/StevenPss/my-team-page-devChallenges.svg?style=for-the-badge
+[issues-url]: https://github.com/StevenPss/my-team-page-devChallenges/issues
+[license-shield]: https://img.shields.io/github/license/StevenPss/my-team-page-devChallenges.svg?style=for-the-badge
+[license-url]: https://github.com/StevenPss/my-team-page-devChallenges/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
